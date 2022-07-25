@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data analysis with python**
 
-- ✅ I recently finished working on [Medicine Finder](https://github.com/Maiz27/medicine-finder)
+- ✅ I recently finished working on [Google Clone (Query)](https://github.com/Maiz27/query)
 
 - 💬 Ask me about **Flutter & React**
 
