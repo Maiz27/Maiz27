@@ -1,17 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maged Faiz Ismail
-=========================================================================================================================================
-
-Flutter Developer | React Developer
------------------------------------
-
-A Computer Science Graduate with passion for Web Apps and Data Science
-
-* 🌍  I'm based in Khartoum, Sudan
-* ✉️  You can contact me at [magedfaiz98@gmail.com](mailto:magedfaiz98@gmail.com)
-* 🚀  I'm currently working on [Comic SD](http://comic-website-sd.web.app)
-* 🧠  I'm learning Cloud Engineering
-* 🤝  I'm open to collaborating on Flutter & React based projects
-
 ### Skills
 
 <p align="left">
@@ -43,4 +29,3 @@ A Computer Science Graduate with passion for Web Apps and Data Science
 
 <a href="http://www.github.com/Maiz27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Maiz27&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Maiz27" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maiz27&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
